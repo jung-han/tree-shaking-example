@@ -7,16 +7,16 @@
     ```
 
 1. webpack & express 모듈 설치
-  ```
-  $ npm install
-  ```
+      ```
+      $ npm install
+      ```
 
 1. 빌드 & 실행
-  ```
-  $ webpack
-  $ node serv/app
-  ```
+      ```
+      $ webpack
+      $ node serv/app
+      ```
 
 1. 테스트화면 접속
 
-http://localhost:9999
+* http://localhost:9999
