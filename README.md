@@ -1,4 +1,4 @@
-웹팩4 tree-shaking 예제 프로젝트
+[웹팩4 tree-shaking 예제 프로젝트](https://min9nim.github.io/2018/07/tree-shaking/) 사용방법
 
 1. 저장소 clone
     ```
